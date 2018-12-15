@@ -1,0 +1,11 @@
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\bin\Debug\ConsoleApp1.application
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+D:\WorkSpace\Visual Studio Projects\Projects\GenerateWord\GenerateWord\ConsoleApp1\obj\Debug\ConsoleApp1.application

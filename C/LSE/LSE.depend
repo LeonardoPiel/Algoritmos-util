@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1531855576 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.c
+	<stdio.h>
+	<locale.h>
+	"ListaE.h"
+
+1531854081 c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.h
+
+1531854729 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaE.h"
+	"myutil.h"
+
+1528904014 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\myutil.c
+	<stdio.h>
+	<locale.h>
+	"myutil.h"
+
+1528902967 c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\myutil.h
+
+1528904014 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\myutil.c
+	<stdio.h>
+	<locale.h>
+	"myutil.h"
+
+1528902967 c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\myutil.h
+
+1532992640 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.c
+	<stdio.h>
+	<locale.h>
+	"ListaE.h"
+
+1532983509 c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.h
+
+1532989620 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaE.h"
+	"myutil.h"
+

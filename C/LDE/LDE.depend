@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1531008944 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\listade.c
+	<stdio.h>
+	<locale.h>
+	"listaDE.h"
+	"..\LSE\ListaE.h"
+
+1530994907 c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\listade.h
+
+1530994913 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDE.h"
+
+1531851368 c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.h
+
+1531008944 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\listade.c
+	<stdio.h>
+	<locale.h>
+	"listaDE.h"
+	"..\LSE\ListaE.h"
+
+1530994907 c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\listade.h
+
+1532983509 c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lse\listae.h
+
+1531853672 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\estrutura de dados abstratos\lde\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDE.h"
+

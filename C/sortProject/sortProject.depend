@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1531235015 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sort.h"
+
+1531234930 c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject\sort.h
+
+1531238201 source:c:\não mexe, faculdade!!\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sort.h"
+	<time.h>
+
+1531226954 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject - att\sortproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sort.h"
+
+1531226956 c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject - att\sortproject\sort.h
+
+1531226956 source:c:\materiais acadêmicos\ufgd\3 semestre\laboratório de programação ii\algoritmos de ordenação\sortlib\sortproject - att\sortproject\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sort.h"
+	<time.h>
+
