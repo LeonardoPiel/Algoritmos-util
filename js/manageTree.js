@@ -197,8 +197,8 @@ Tree.prototype.preOrder = function (t) { // faz o percurso da árvore pré ordem
 }
 Tree.prototype.posOrder = function (t) { // faz o percurso da árvore pós ordem e mostra as chaves no console
     if (!this.isEmpty(t)) {
-        this.preOrder(t.left);
-        this.preOrder(t.right);
+        this.posOrder(t.left);
+        this.posOrder(t.right);
         console.log(t.key);
     }
 }
