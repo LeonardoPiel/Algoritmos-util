@@ -1,4 +1,4 @@
 # Util
-Armazenamento de algoritmos e classes úteis para o desenvolvimento de aplicações.
+Algoritmos de manipulação de estrutura de dados.
 # Linguagens
-Códigos e projetos nas linguagens que "dão na telha" para qualquer ideia específica!
+C, C++, C# e JS
